@@ -3,10 +3,6 @@
   "delays": {
     "label": "Delays",
     "subcategories": {
-      "delays": {
-        "label": "Delays",
-        "answer": "We are diligently working to get your order completed, and will be shipping your order as soon as possible. Sorry for the delay."
-      },
       "ruger-american-delays": {
         "label": "Ruger American delays",
         "answer": "Our apologies. We have experienced a shift in the action screw spacing, and are in the process of correcting the issue. Once completed, we will be shipping your order as soon as possible. Thank you for your business and patience!"
@@ -47,10 +43,6 @@
         "label": "Running behind",
         "answer": "We are currently processing orders in 3-5 business days, due to all the orders. You will receive an email with your tracking information as soon as your order ships. Thanks for your patience and business!"
       },
-      "shipping-status-lead-times": {
-        "label": "Shipping status / Lead times",
-        "answer": "We apologize for the delays. We are expecting more in 2-3 weeks. Be on the lookout for the shipping notifications with your tracking information. Thank you for your patience and support."
-      }
     }
   },
   "shipping": {
@@ -59,10 +51,6 @@
       "outlier-usa-address": {
         "label": "Outlier USA address",
         "answer": "6217 TX-66, Greenville, TX 75402"
-      },
-      "shipping-label-3": {
-        "label": "Shipping Label - #3",
-        "answer": "Please see the attached return label. Print it out and secure it to the return packaging. We will process the return once received. Thank you!"
       },
       "lost-in-transit": {
         "label": "Lost in Transit",
@@ -85,11 +73,11 @@
         "answer": "You should have received an email with your tracking information. Your tracking number is . Thank you for your business!!"
       },
       "my-order-shows-you-still-have-it": {
-        "label": "MY ORDER SHOWS YOU STILL HAVE IT!!",
+        "label": "My order shows you still have it",
         "answer": "According to our records, your order shipped. Once the package is labeled, we put them in a cart for UPS pick up. They pick up from us daily but do not scan them. They scan them in once they reach whatever UPS facility they take them. We can tell you is that it is on the way. Thank you for your business and support."
       },
       "no-shipping-notice": {
-        "label": "NO SHIPPING NOTICE",
+        "label": "No Shipping Notice",
         "answer": "Your order is still in processing. Once your order ships, you will receive an email notification with your tracking information. Thank you for your business and patience."
       },
       "ups-shows-delivered-but-no-package": {
@@ -99,10 +87,6 @@
       "other-regions-not-listed": {
         "label": "Other regions not listed",
         "answer": "We are not permitted to ship outside the US and it's territories. We will warranty the item, but all related shipping costs, both to us and from us, will be the customers responsibility. We are required to ship to a US address only. All export laws such as ITAR and EAR are explicitly the customers responsibility, and their sole responsibility. Thank you."
-      },
-      "no-shipping-notice-2": {
-        "label": "(NO) SHIPPING NOTICE",
-        "answer": "You should have received a shipping notification. Your order has shipped. Your tracking number is . Thanks!"
       },
       "missing-items-check-packing-list": {
         "label": "Missing items / Check packing list",
@@ -125,7 +109,7 @@
         "answer": "The flip-up covers are designed to fit very snugly to ensure optimal protection and security for your optics. Please review the video in the following link for easy instuctions of how to install. Thanks! https://www.dropbox.com/scl/fi/vao9foosyi2cwcf6i3lad/FlipItsInstallationHelp.mov?rlkey=c1tuasbtwg37hrbzvep09jigw&dl=0"
       },
       "i-bought-on-amazon": {
-        "label": "I BOUGHT ON AMAZON",
+        "label": "Purchased on Amazon",
         "answer": "Unfortunately, when you buy other than from us, we cannot honor the same deals. For the best customer service and pricing, please buy direct from us at www.arkenopticsusa.com Thank you!"
       },
       "amazon-fulfillment-issues": {
@@ -141,7 +125,7 @@
         "answer": "Once your items ship, you will receive an email with your tracking information. Please keep in mind that your order may be split, due to certain items being out of stock at the time. Once your backordered items come in, they will be shipped to you promptly. Thank you for your business and support!"
       },
       "address": {
-        "label": "ADDRESS",
+        "label": "Address Issues",
         "answer": "Your address has been flagged by our shipping equipment and it is not showing up on Google maps either. That does not always mean it is wrong but we would appreciate it if you can check what we have and either verify it, or alert us to any changes. If it is a business, box, or suite, please let us know. If it is an apartment, we need the name of the apartments and the apartment #. You entered:. Thank you in advance."
       },
       "lost-in-transit-2": {
@@ -151,18 +135,6 @@
       "stolen-not-delivered": {
         "label": "Stolen/Not delivered",
         "answer": "We regret to hear that your package has gone missing. Please file a theft claim with UPS, and / or a police report for theft. Send us a copy of the claim or the report, we can then replace the order at 50% off regular price. Again, we regret this has happened, we will do what we can to help. Thank you for your business."
-      },
-      "shipping-letter": {
-        "label": "Shipping Letter",
-        "answer": "Please see the attached return label below. The label is good for 21 days only so do not delay. Remove all accessories (rings, level, throw lever, caps) from your scope prior to return. There will be a $15.00 charge for shipping and handling on exchanges when it is a customer request not due to manufacturing or shipping error. DO NOT SEND ANY MONEY BACK WITH THE RETURN. Wait to be invoiced via email. Please use the original, or appropriate packaging for the return. We will take care of you when we receive the return. Thank you for your business and support."
-      },
-      "leveling-and-tracking": {
-        "label": "Leveling and tracking",
-        "answer": "Start by leveling the rifle from the scope rail. Once that is done, align the vertical stadia of the reticle to a plumb line. (**NOTE** Do not use the top of the turret to level the scope.) Tighten all the screws for the rings or mount in a torquing pattern. Go slow with this stage, ensuring that the reticle stays aligned with the plumb line. Once you have reached 18in/lbs of torque, you should be done. Next, ensure that the rifle is stationary, and run the turret up and down the full extent of travel, making sure the reticle stays true to the plumb line. If it does not, make adjustments to the level of the reticle. Now check the tracking with a tall target test. Our tracking error should be 2% or less."
-      },
-      "not-holding-can-t-set": {
-        "label": "Not holding - Can't set",
-        "answer": "Make sure the scope rings are properly tightened and there is no play in the scope to rings or rings to rail connections. Check your scope rail screws as well. Check your muzzle brake if you have one. Check those details, and let us know. Thank you for your support and business."
       }
     }
   },
@@ -191,49 +163,16 @@
       }
     }
   },
-  "order-changes": {
-    "label": "Order Changes",
-    "subcategories": {
-      "please-cancel-my-order": {
-        "label": "Please \"cancel\" my order",
-        "answer": "Your order has been cancelled per your request, and your transaction has been refunded. Thank you for considering GetOutlier."
-      },
-      "please-cancel-my-order-2": {
-        "label": "Please cancel my order",
-        "answer": "Your order has been cancelled per your request, and your refund processed. Thank you for considering Arken Optics."
-      }
-    }
-  },
   "payments": {
     "label": "Payments",
     "subcategories": {
-      "15-charge-for-exchange": {
-        "label": "$15 Charge for exchange",
-        "answer": "Please see the RMA form below. Be sure to fill it out completely including your desired resolution. We will send you a prepaid return label. Only send back what you wish to return or exchange. We do charge a $15.00 processing fee for the S&H of exchanges. Thank you for your business and support. http://www.bit.ly/ArkenRMA"
-      },
-      "no-charge-for-warranty-issues": {
-        "label": "NO CHARGE for warranty issues",
-        "answer": "Please see the RMA form below. Be sure to fill it out completely including your desired resolution. We will send you a prepaid return label. Only send back what you wish to return or exchange. Thank you for your business and support. https://share.hsforms.com/1dDECXnufTgKEbqi2XsCetQ4316h"
-      },
-      "awaiting-payment": {
-        "label": "Awaiting Payment",
-        "answer": "We are trying to call you from a 903 area code to verify your information and finalize your order. Thank you, Arken Optics"
-      },
       "gift-cards-prepaid-cards-split-payments": {
         "label": "Gift cards / Prepaid cards / Split payments",
         "answer": "We utilize a 3rd party payment processor. They do not accept gift cards, prepaid cards, or split payments. Sorry for the inconvenience."
       },
-      "payment-received": {
-        "label": "Payment received",
-        "answer": "Your payment has been received and your order has been finalized. It is now awaiting processing. Thank you for your business!!"
-      },
       "refund-return-policy": {
         "label": "Refund/Return Policy",
         "answer": "We have a 30 day window for returns/refunds. We can exchange the item under warranty for you if you wish. Thank you for your business and support."
-      },
-      "refund-processed": {
-        "label": "Refund processed",
-        "answer": "Your order changes have been made per your request, and your refund processed. Thank you for your business and support!"
       },
       "declined": {
         "label": "Declined",
@@ -244,10 +183,6 @@
   "discounts-and-rewards": {
     "label": "Discounts & Rewards",
     "subcategories": {
-      "industry-discount": {
-        "label": "Industry Discount",
-        "answer": "We do offer an industry discount. The discount code is INDY30. Please provide an industry discount code in return, if you have one. Thank you for the inquiry!"
-      },
       "no-discount-stacking": {
         "label": "No Discount Stacking",
         "answer": "You are allowed to use any of the discount codes or the rewards points, but no discounts can be combined. We are not allowed to stack multiple discounts on one order. Thanks!"
@@ -347,14 +282,6 @@
         "label": "Tax Exempt Form and Process",
         "answer": "We can start the process by providing the following. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Go to our website, and register the email address you wish to use for all purchases. In addition, please fill out the form from the link below, to the fullest extent possible for our records. Once those steps have been accomplished, we will then be able to offer you the MIL/LEO discount, as well as change your tax status to exempt. Thank you for the inquiry!"
       },
-      "sku-identifiers-for-rma-forms": {
-        "label": "SKU identifiers for RMA forms",
-        "answer": "RTS - Return to stock"
-      },
-      "detailed-information": {
-        "label": "Detailed information",
-        "answer": "Please provide the full official name of the match, and the expected number of shooters. Once we get this information, we will be able to help out with the match. Thanks for choosing Arken and Outlier!"
-      },
       "suppressors": {
         "label": "Suppressors",
         "answer": "Your rebate code will be lasered onto the barrel itself. Once you receive your barrel, you can then use the code on our website, backdraftsuppressors.com. Thank you for your business and patience!"
@@ -362,10 +289,6 @@
       "adapter-fitment": {
         "label": "Adapter fitment",
         "answer": "All of our HUB's fit our suppressors. It is dependent on the mating part that determines the correct adapter. For standard barrels, you will need either the 1/2-28TPI, or 5/8-24TPI direct thread adapter. For the backdraft system, you will choose either the 1\"OD or 1.2\"OD adapter. 1\"OD adapter is for the AR9 and AR15's. The 1.2\"OD adapters are for the backdraft barrels and the AR10. Thanks!"
-      },
-      "suppressor-rebate-code": {
-        "label": "Suppressor rebate code",
-        "answer": "We appreciate you reaching out. Your rebate code is RS-. Go to our website, backdraftsuppressors.com, and enter the code in the redeem coupon box at checkout. Simply follow the prompted directions. Thank you for your business and support!"
       },
       "suppressor-rebate-code-in-the-box": {
         "label": "Suppressor rebate code in the box",
@@ -421,14 +344,6 @@
         "label": "Dealer application USA",
         "answer": "Please reach out to the following link to apply: christopher.watkins@getoutlier.com"
       },
-      "temp-dealer-message-for-craig": {
-        "label": "Temp dealer message for Craig",
-        "answer": "Please provide a shipping address and customer name for this return. This is the retail side but I am working the dealer returns until we can replace James. The only problem is that I cannot see or have access to dealer orders."
-      },
-      "ffl-sot-info-not-in-database": {
-        "label": "FFL/SOT info not in database",
-        "answer": "Please obtain a copy of the FFL/SOT that you are wishing to use, and email the information to \"license@masterffl.com\", as it is their database that we are utilizing. Thanks!"
-      },
       "ffl-sot": {
         "label": "FFL/SOT",
         "answer": "Please forward the FFL/SOT information to license@masterffl.com. They will input the information to their database. Thanks!"
@@ -440,10 +355,6 @@
       "dealer-application-usa-2": {
         "label": "Dealer application USA",
         "answer": "Please reach out to the following link to apply. https://dealers.arkenopticsusa.com/"
-      },
-      "dealer-location-inquiry": {
-        "label": "Dealer location inquiry",
-        "answer": "We do not currently have a dealer listing by area. We are working on that, but we are not there just yet. There are several groups on Facebook, and Arken Optics USA Info has begun requesting dealer information on locations. You can check there to see if someone has been listed in your area yet."
       }
     }
   },
@@ -454,21 +365,9 @@
         "label": "Shootout Guarantee",
         "answer": "The Shootout Guarantee, is exactly as it states. If you chose the nitride option, your barrel will be replaced if you ever shoot it out! The shootout part, is based on the barrel not being able to hold to our sub-MOA guarantee. If it won't hold that accuracy, you get a new one for free!"
       },
-      "return-form-2": {
-        "label": "Return Form - #2",
-        "answer": "Please see the following form to start the return process. This form will report to GetOutlier for your return. Thank you. https://share.hsforms.com/1XMQ7-T6oQo2SZWtDXuy5Ngc5bz3"
-      },
-      "return-of-lh6": {
-        "label": "Return of LH6",
-        "answer": "We apologize for the error. Please fill out the RMA form for the return of the scope. Please verify that the accessories you received are of the correct size of mount is the 34mm. Only send the scope back, keep all accessories, and we will send you the correct scope as soon as possible. Thank you for your business and we apologize again for the error. http://www.bit.ly/ArkenRMA"
-      },
       "warranty-parts-fulfillment": {
         "label": "Warranty Parts/Fulfillment",
         "answer": "WARRANTY PARTS"
-      },
-      "zulus-issues-programming-warranty": {
-        "label": "Zulus issues/programming/warranty",
-        "answer": "DNT Optics now handles all digital products for Arken Optics. Please email DNT Optics at info@dntoptics.com. Thanks!"
       }
     }
   },
@@ -499,6 +398,14 @@
         "label": "Screws",
         "answer": "Action screws: Black 1/4-28 x 1/2\" & 1/4-28 x 2\" - Per manufacturers recommendations (typically 40-75 in/lbs) - Qty=1 & 1"
       },
+      "leveling-and-tracking": {
+        "label": "Leveling and tracking",
+        "answer": "Start by leveling the rifle from the scope rail. Once that is done, align the vertical stadia of the reticle to a plumb line. (**NOTE** Do not use the top of the turret to level the scope.) Tighten all the screws for the rings or mount in a torquing pattern. Go slow with this stage, ensuring that the reticle stays aligned with the plumb line. Once you have reached 18in/lbs of torque, you should be done. Next, ensure that the rifle is stationary, and run the turret up and down the full extent of travel, making sure the reticle stays true to the plumb line. If it does not, make adjustments to the level of the reticle. Now check the tracking with a tall target test. Our tracking error should be 2% or less."
+      },
+      "not-holding-can-t-set": {
+        "label": "Not holding - Can't set",
+        "answer": "Make sure the scope rings are properly tightened and there is no play in the scope to rings or rings to rail connections. Check your scope rail screws as well. Check your muzzle brake if you have one. Check those details, and let us know. Thank you for your support and business."
+      },
       "taking-scopes-out-of-the-us": {
         "label": "Taking scopes out of the US",
         "answer": "Due to ITAR and EAR regulations, we are not permitted to ship outside the US or it's territories. You may purchase the scope, send it to a US address, but you will still be under the ITAR/EAR regulations if you try taking it out of the country. If you choose to proceed to make this purchase, you are doing so at your own risk. Arken Optics will not be held responsible or liable for any refunds."
@@ -510,86 +417,6 @@
       "setting-scope-and-rifle-to-your-eye": {
         "label": "Setting scope and rifle to your eye",
         "answer": "You will need to make sure that you properly set up your rifle to fit you. You will need to close your eyes, and get comfortable behind the rifle, totally relaxed. Once you open your eye, you should have full complete view of the glass. If not, make the necessary adjustments to achieve this. Either raise or lower your cheek weld, or move the scope forward or rearward to get the full view. Spend the time in the set up, to ensure that you have the correct eye relief, sight picture, and bone support, and not muscle support. This will also help to prevent eye and neck fatigue and strain."
-      },
-      "azs-lock-screw-dims-brass": {
-        "label": "AZS LOCK SCREW DIMS (Brass)",
-        "answer": "M4*5 BRASS"
-      },
-      "azs-screw": {
-        "label": "AZS SCREW",
-        "answer": "M4*12 with the step down base that touches the stop bar on the plate."
-      },
-      "bubble-level-screw": {
-        "label": "Bubble level screw",
-        "answer": "SCREW LEVEL"
-      },
-      "throw-lever-screw": {
-        "label": "Throw lever screw",
-        "answer": "SCREW TL34"
-      },
-      "allen-wrench-for-ring-and-base-screws": {
-        "label": "Allen wrench for ring and base screws",
-        "answer": "ALLEN T25"
-      },
-      "allen-wrench-for-turret-screws": {
-        "label": "Allen wrench for turret screws",
-        "answer": "ALLEN"
-      },
-      "sunshade-orders": {
-        "label": "SUNSHADE ORDERS",
-        "answer": "SH4G2-SS, EPL4-44SS 50SS, EP5-SS"
-      },
-      "screw-ring-base-4mm-x-70-x-15-8-long": {
-        "label": "Screw ring base (4mm X.70 X 15.8 long)",
-        "answer": "SRB"
-      },
-      "screw-mount-base-4mm-x-70-x-19-8-long": {
-        "label": "Screw mount base (4mm X.70 X 19.8 long)",
-        "answer": "SMB"
-      },
-      "cap-screws-4mm-x-70-x-13-8-long": {
-        "label": "Cap Screws ( 4mm X .70 X 13.8 long)",
-        "answer": "SRC"
-      },
-      "scope-screw-pack": {
-        "label": "Scope screw pack",
-        "answer": "SSP"
-      },
-      "zulus-mounting-screws": {
-        "label": "Zulus mounting screws",
-        "answer": "PMS"
-      },
-      "scope-battery": {
-        "label": "Scope battery",
-        "answer": "BAT Battery: CR2032 Illumination"
-      },
-      "scope-ring-base": {
-        "label": "Scope ring base",
-        "answer": "CLAMP Clamp: 30mm 34mm High Med Low"
-      },
-      "scope-objective-od-s-in-mm-and-inches": {
-        "label": "Scope Objective OD's in mm and inches",
-        "answer": "SH4 58.9mm/2.32\" - SH4J 58.0mm/2.28\" - EP5 66.1mm/2.60\" - EP5G2 64.1mm/2.52\" - EPL4 44mm 52.0mm/2.04\" - EPL4 50mm 58.0mm/2.28\" - EP8 34.0mm/1.33\""
-      },
-      "scope-ocular-od-s-in-mm-and-inches": {
-        "label": "Scope Ocular OD's in mm and inches",
-        "answer": "SH4, EPL4, EP5 43.5mm/1.71\". - LH4, SH4J, EP5G2 44.5mm/1.75\" - EP8 46.9mm/1.84\""
-      },
-      "scope-ring-mount-material": {
-        "label": "Scope Ring/Mount Material",
-        "answer": "Aerospace 7075 T6"
-      },
-      "torque-values": {
-        "label": "TORQUE VALUES",
-        "answer": "Caps for both rings and mounts = 18 in/lbs"
-      },
-      "zero-stop-plate-9mm-screws": {
-        "label": "Zero Stop plate (.9mm screws)",
-        "answer": "Not Offered to customers"
-      },
-      "zulus-mount-screws-zulus-to-mount": {
-        "label": "Zulus mount screws (Zulus to mount)",
-        "answer": "PMS SCREWS"
       },
       "caliber-capability": {
         "label": "CALIBER CAPABILITY",
@@ -693,16 +520,8 @@
         "answer": "We offer an \"Official Use Only\" discount for Mil/LEO. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Thanks!"
       },
       "order-not-found": {
-        "label": "ORDER NOT FOUND",
+        "label": "Order not found",
         "answer": "We have received your return but can't find any previous order associated with your name or email address. Please reply with your shipping address so we can get you taken care of asap. Thank you got your business!"
-      },
-      "please-change-my-order": {
-        "label": "Please change my order",
-        "answer": "Your order has been updated per the information you provided. Thank you for your business!"
-      },
-      "replacement-message": {
-        "label": "Replacement Message",
-        "answer": "We received your return today and have created the replacement order for you. Thank you, as always, for your business!"
       },
       "sponsored-shooters": {
         "label": "Sponsored shooters",
@@ -719,14 +538,6 @@
       "upgrade-after-30-days": {
         "label": "Upgrade after 30 days",
         "answer": "Unfortunately we can not do that. Returns for upgrades are strictly limited to within 30 days of the customer receiving the original order. We do not take trade ins, as we don't sell used products. We hope you understand. Sorry for the inconvenience."
-      },
-      "remote-work-reply": {
-        "label": "Remote work reply",
-        "answer": "Please double check the email address that you are trying to reach. You have reached Arken Optics USA customer service. We do not have any remote work programs, nor do we offer any outside work due to the strict privacy of our production processes. Thanks."
-      },
-      "looking-for-work": {
-        "label": "Looking for work",
-        "answer": "If you could please forward a current resume, we will be happy to forward it on the powers that be. Thanks!"
       },
       "how-does-the-site-work-and-what-do-i-order": {
         "label": "How does the site work and what do I order?",
@@ -753,14 +564,6 @@
         "label": "CIP Receiver Modifications",
         "answer": "https://www.snipershide.com/shooting/threads/700-long-action-cip.6922197/"
       },
-      "email-under-construction": {
-        "label": "Email under construction",
-        "answer": "Our email system is still under construction. We apologize that the form you used was sent off out into \"lala\" land. Please reply back to this email address for all correspondence. Thanks!"
-      },
-      "invoices": {
-        "label": "Invoices",
-        "answer": "Be on the lookout for the invoice. Once it is paid, reply back here and let me know, and we will finish processing your order. Thanks!"
-      },
       "lookout-for-notification": {
         "label": "Lookout for notification",
         "answer": "Be on the lookout for the email with your shipping notification and tracking information. Thank you for your business and patience!"
@@ -777,10 +580,6 @@
         "label": "Order didn't go through",
         "answer": "Our payment processor denied the transaction. The funds were returned immediately. Your financial institution will typically hold the funds for 3-5 business days to process back to your account. Sorry for the inconvenience."
       },
-      "order-didn-t-qualify-for-rebate": {
-        "label": "Order didn't qualify for rebate",
-        "answer": "Our apologies. Upon looking closer at your order, it did not meet the criteria for the suppressor rebate. The order total must be at least $500, or have been a backdraft barrel, neither of which your order has. We apologize for the inconvenience."
-      },
       "seal-1-clp-plus": {
         "label": "SEAL 1 CLP Plus",
         "answer": "SEAL 1 CLP Plus can be used for a variety of purposes. It dissolves carbon on contact, reducing cleaning time and making it easier to clean guns in the future. Plus it works as a lubrication for installation, and creates a barrier that protects against copper, lead, sand, dust, and dirt and rust."
@@ -796,23 +595,6 @@
       "twist-rate-info": {
         "label": "Twist rate info",
         "answer": "Overstabilization is not truly an issue with modern projectiles. While some lighter projectiles may need less twist, the higher twist won't hurt anything. If you get the barrel, and you don't like the performance, you can return it within 30 days for a refund. We are currently only set up to offer the twist rates as shown on the website. Thanks for the inquiry!"
-      },
-      "stingerworx-reply": {
-        "label": "Stingerworx reply",
-        "answer": "Please reach out to Stingerworx Suppressors directly for any additional information, at sales@stingerworx.com. Thanks!"
-      },
-      "outlier-remote-working-reply": {
-        "label": "Outlier remote working reply",
-        "answer": "We do not have any records in our system for your name or email address. Please double check the email address that you are trying to reach. You have reached OutlierUSA customer service.WE ARE NOT OUTLIER.AI. We do not have any remote work programs, nor do we offer any outside work due to the strict privacy of our production processes. Thanks."
-      }
-    }
-  },
-  "discount": {
-    "label": "discount",
-    "subcategories": {
-      "how-to-apply": {
-        "label": "How to apply",
-        "answer": "Add all the items into your shopping bag that you are wanting. Click on Go To Checkout. Down close to the bottom, right under the order total dollar amount, is the line that says \"Discount or Reward Code? Click HERE to redeem\". Click there, and enter the discount code, and hit apply. You should be good to go. Please keep in mind that you are not allowed to combine rewards and other discount codes together. Thanks!"
       }
     }
   },
@@ -886,45 +668,6 @@
       "what-we-use": {
         "label": "What we use",
         "answer": "Our chassis was designed around the Accurate Mag AICS steel magazine, and the MDT magazines also work extremely well. Thanks for the inquiry!"
-      }
-    }
-  },
-  "match": {
-    "label": "match",
-    "subcategories": {
-      "order-certificate-info-request": {
-        "label": "Order/Certificate info request",
-        "answer": "Thank you for choosing our Match Certificate! Please go to the website and create the order that you would like for your barrel. Then take a screen shot of your order information, and send it to us. We will us this information to ensure that we get your order corect. Once we have that information, we will create the order for you and send you the onvoice if one is needed. Thank you again for choosing Outlier USA!"
-      },
-      "sponsor-certificate-communication": {
-        "label": "Sponsor/Certificate Communication",
-        "answer": "Thanks for reaching out to us to be a sponsor. Attached, you will find the 50% Off Certificates, as well as the Arken Optics and Outlier logos to use in your advertisements. You may print up to (4) Arken certificates ($2200 value), as well as (2) Outlier certificates ($500 value) for the date shown. Please send us any pictures or video links if you can. Thank you again for contacting us, and have a great event! Best of luck!!"
-      },
-      "order-certificate-info-request-2": {
-        "label": "Order/Certificate info request",
-        "answer": "Thank you for choosing our Match Certificate! We will need the following information to process your order. Name: Address: City: State: Zip code: Phone number: Email address: Optic choice: MIL or MOA: Ring or mount height: Throw lever: Bubble level: Flip-Its: Hat: Shirt size: Thank you again for choosing Arken Optics!!"
-      }
-    }
-  },
-  "payment": {
-    "label": "payment",
-    "subcategories": {
-      "pending": {
-        "label": "Pending",
-        "answer": "Your order was accepted, but something triggered our system to check the infomation used on the order, versus the information on the card that was used. There will be a check of information, and it should process. If not, you will receive a call to confirm something about the information used. Sorry for the inconvenience. Thank you for your business and support!"
-      },
-      "time-of": {
-        "label": "Time of",
-        "answer": "The payment will be charged at the time of your order. Thanks for the inquiry!"
-      }
-    }
-  },
-  "please-change-my-order": {
-    "label": "please-change-my-order",
-    "subcategories": {
-      "not-in-process": {
-        "label": "not in process",
-        "answer": "Your order has been updated per the information you have provided to us. Thank you for your business!"
       }
     }
   },
@@ -1085,15 +828,6 @@
       }
     }
   },
-  "dealer-order-questions": {
-    "label": "dealer-order-questions",
-    "subcategories": {
-      "send-to-jacob": {
-        "label": "send to Jacob",
-        "answer": "Please reach out to Jacob at the following link: dealers@arkenopticsusa.com"
-      }
-    }
-  },
   "discontinued": {
     "label": "discontinued",
     "subcategories": {
@@ -1112,29 +846,11 @@
       }
     }
   },
-  "invoice": {
-    "label": "invoice",
-    "subcategories": {
-      "upgrade": {
-        "label": "Upgrade",
-        "answer": "Thank you for your order. Be on the lookout for the invoice. Once it is paid, we will finish processing your order. Thanks!"
-      }
-    }
-  },
-  "message": {
-    "label": "message",
-    "subcategories": {
-      "swap": {
-        "label": "SWAP",
-        "answer": "We received your return and have created the swap order and sent the invoice for the S&H. Thank you!"
-      }
-    }
-  },
   "paypal": {
     "label": "paypal",
     "subcategories": {
       "no-longer-allowed": {
-        "label": "No longer allowed",
+        "label": "PayPal",
         "answer": "We are no longer associated with PayPal due to their stance on the 2nd Amendment, and the mishandling of our payments. We do take all major credit and debit cards. Thanks for your business!"
       }
     }
@@ -1263,15 +979,6 @@
       }
     }
   },
-  "lh4": {
-    "label": "lh4",
-    "subcategories": {
-      "44ss-50ss-sh4j-ss-ep5g2-ss": {
-        "label": "44SS 50SS, SH4J-SS, EP5G2-SS",
-        "answer": "LH4/SH4J/EP5G2 - Sunshade - 44mm/50mm/56mm - Free and $15 shipping."
-      }
-    }
-  },
   "scope-screw-pack": {
     "label": "scope-screw-pack",
     "subcategories": {
@@ -1281,130 +988,12 @@
       }
     }
   },
-  "tl-post": {
-    "label": "tl-post",
-    "subcategories": {
-      "ep8-lh6": {
-        "label": "EP8 / LH6",
-        "answer": "EP8-TL M5*0.5"
-      }
-    }
-  },
-  "ep5g2": {
-    "label": "ep5g2",
-    "subcategories": {
-      "te-or-ep5g2-tw": {
-        "label": "TE or EP5G2-TW",
-        "answer": "Elevation or Windage - $10 plus tax and $15 shipping. (Individuals - NOT sets)"
-      }
-    }
-  },
-  "epl4": {
-    "label": "epl4",
-    "subcategories": {
-      "te-or-epl4-tw": {
-        "label": "TE or EPL4-TW",
-        "answer": "Elevation or Windage - $10 plus tax and $15 shipping. (Individuals - NOT sets)"
-      }
-    }
-  },
-  "sh4g2": {
-    "label": "sh4g2",
-    "subcategories": {
-      "te-or-sh4g2-tw": {
-        "label": "TE or SH4G2-TW",
-        "answer": "Elevation or Windage - $10 plus tax and $15 shipping. (Individuals - NOT sets)"
-      },
-      "50mm": {
-        "label": "50MM",
-        "answer": "FL5559-3742"
-      }
-    }
-  },
-  "ep8": {
-    "label": "ep8",
-    "subcategories": {
-      "te-or-ep8-tw-turret-ep8-elev-or-wind-moa": {
-        "label": "TE or EP8-TW Turret: EP8 Elev or Wind MOA",
-        "answer": "Elevation or Windage - $10 plus tax and $15 shipping. (Individuals - NOT sets)"
-      },
-      "lh6": {
-        "label": "LH6",
-        "answer": "FL3035-4449"
-      }
-    }
-  },
-  "epl4-lh4": {
-    "label": "epl4-lh4",
-    "subcategories": {
-      "416-x-44mm": {
-        "label": "416 X 44MM",
-        "answer": "FL4654-3742"
-      }
-    }
-  },
-  "sh4j-epl4-lh4": {
-    "label": "sh4j-epl4-lh4",
-    "subcategories": {
-      "624-x-50mm": {
-        "label": "624 x 50MM",
-        "answer": "FL5559-4449"
-      }
-    }
-  },
-  "ep5-g2": {
-    "label": "ep5-g2",
-    "subcategories": {
-      "56mm": {
-        "label": "56MM",
-        "answer": "FL6065-3742"
-      }
-    }
-  },
-  "lh4-4": {
-    "label": "lh4-4",
-    "subcategories": {
-      "16-mil-vhr": {
-        "label": "16 MIL VHR",
-        "answer": "DISCONTINUED - Replaced by VPR"
-      },
-      "16-moa-vhr": {
-        "label": "16 MOA VHR",
-        "answer": "DISCONTINUED - Replaced by VPR"
-      }
-    }
-  },
-  "lh4-6": {
-    "label": "lh4-6",
-    "subcategories": {
-      "24-mil-vhr": {
-        "label": "24 MIL VHR",
-        "answer": "PHASE OUT"
-      },
-      "24-moa-vhr": {
-        "label": "24 MOA VHR",
-        "answer": "PHASE OUT"
-      },
-      "24-mil-vpr": {
-        "label": "24 MIL VPR",
-        "answer": "PHASE OUT"
-      },
-      "24-moa-vpr": {
-        "label": "24 MOA VPR",
-        "answer": "PHASE OUT"
-      }
-    }
-  },
   "screw": {
     "label": "screw",
     "subcategories": {
       "throw-lever": {
         "label": "Throw lever",
         "answer": "SCREW TL34"
-      },
-      "turret-set-ep5g2-7-35": {
-        "label": "TURRET SET - EP5G2 7-35",
-        "answer": "NO INFO AT THIS TIME"
       },
       "turret-set-stainless": {
         "label": "TURRET SET (Stainless)",
@@ -1453,15 +1042,6 @@
       "sh4-and-lh4": {
         "label": "SH4 and LH4",
         "answer": "The SH4 and LH4 has the Chinese HD glass. The EPL4 has the Japanese ED glass. Thank you for your interest!"
-      }
-    }
-  },
-  "pictures": {
-    "label": "pictures",
-    "subcategories": {
-      "ask-for-them-to-cover-tech-issues": {
-        "label": "Ask for them to cover tech issues",
-        "answer": "To assist us in helping you with the issues, please provide us a few pictures of your rifle setup and of the scope and turrets. Thank you!"
       }
     }
   },
