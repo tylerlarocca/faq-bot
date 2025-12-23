@@ -693,15 +693,6 @@
       }
     }
   },
-  "rma": {
-    "label": "rma",
-    "subcategories": {
-      "shipment-received": {
-        "label": "Shipment received",
-        "answer": "Do not refund any orders until the product has been returned, and is in our possession."
-      }
-    }
-  },
   "special-requests-1": {
     "label": "special-requests-1",
     "subcategories": {
@@ -724,88 +715,6 @@
       }
     }
   },
-  "mc": {
-    "label": "mc",
-    "subcategories": {
-      "bnut-tr": {
-        "label": "BNUT-TR",
-        "answer": "Barrel Nut: Tikka/Ruger"
-      },
-      "scr-rs": {
-        "label": "SCR-RS",
-        "answer": "Screw: Rail Side 30in/lbs"
-      },
-      "scr-rb": {
-        "label": "SCR-RB",
-        "answer": "Screw: Rail Bottom 30in/lbs"
-      },
-      "scr-far7": {
-        "label": "SCR-FAR7",
-        "answer": "Screw: Front Action Rem700"
-      },
-      "scr-famp": {
-        "label": "SCR-FAMP",
-        "answer": "Screw: Front Action MosPat"
-      },
-      "scr-fah15": {
-        "label": "SCR-FAH15",
-        "answer": "Screw: Front Action Howa 1500"
-      },
-      "scr-far783": {
-        "label": "SCR-FAR783",
-        "answer": "Screw: Front Action Rem783"
-      },
-      "scr-fara": {
-        "label": "SCR-FARA",
-        "answer": "Screw: Front Action Rug Amer"
-      },
-      "scr-fasav": {
-        "label": "SCR-FASAV",
-        "answer": "Screw: Front Action Sav"
-      },
-      "scr-fat3": {
-        "label": "SCR-FAT3",
-        "answer": "Screw: Front Action Tikka T3"
-      },
-      "scr-rr": {
-        "label": "SCR-RR",
-        "answer": "Screw: Rear Action 1/4-28x2\""
-      },
-      "scr-g": {
-        "label": "SCR-G",
-        "answer": "Screw: Grip 1/4-28 Allen 20in/lbs"
-      },
-      "scr-set": {
-        "label": "SCR-SET",
-        "answer": "Screw: Set 1/8\" Allen 10in/lbs"
-      },
-      "washer": {
-        "label": "WASHER",
-        "answer": "Washer: Bolt Grip Spacer"
-      },
-      "mrs": {
-        "label": "MRS",
-        "answer": "Spring: Mag Rls"
-      },
-      "mrp": {
-        "label": "MRP",
-        "answer": "Pin: Mag Rls"
-      }
-    }
-  },
-  "o": {
-    "label": "o",
-    "subcategories": {
-      "magrls-1": {
-        "label": "MAGRLS-1",
-        "answer": "Release: Magazine"
-      },
-      "rz-mb5-8ts": {
-        "label": "RZ-MB5/8TS",
-        "answer": "Muzzle brake timing screw"
-      }
-    }
-  },
   "rewards": {
     "label": "rewards",
     "subcategories": {
@@ -816,33 +725,6 @@
       "sign-up": {
         "label": "Sign up",
         "answer": "Simply go to our website and open the main page. Look for the \"REWARDS\" tab on the right side. Click on it and fill out the form. Important note: All orders and communication to and from Arken should always use the same email address to insure proper credit. Thank you for your business and support."
-      }
-    }
-  },
-  "battery": {
-    "label": "battery",
-    "subcategories": {
-      "cr2032-no-longer-included": {
-        "label": "CR2032 No longer included",
-        "answer": "As of May 15th, 2024, the CR2032 batteries are no longer included with our scopes. Please refer to the specification section of each scope on our website. We apologize for the change. Thank you for your business and support."
-      }
-    }
-  },
-  "discontinued": {
-    "label": "discontinued",
-    "subcategories": {
-      "cpack": {
-        "label": "CPACK",
-        "answer": "The combo pack has been replaced with the discount from the website, on each and every item. You can pick and choose what you want, and nothing you don't. Any items, in any quantity, for the same great savings! Thanks!"
-      }
-    }
-  },
-  "email": {
-    "label": "email",
-    "subcategories": {
-      "use-request": {
-        "label": "use request",
-        "answer": "When contacting us, please always use the same email you used when placing your order, and NEVER use notifications@ecwid.com That is a generic email address that we cannot respond to."
       }
     }
   },
