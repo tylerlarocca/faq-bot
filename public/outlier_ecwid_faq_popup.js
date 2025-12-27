@@ -54,7 +54,7 @@
       },
       "lost-in-transit": {
         "label": "Lost in Transit",
-        "answer": "According to our records, your order was shipped. We will create a replacement order for you. Your new order number is X. Hopefully this one will make it to you. Please advise if you receive the original order. Thanks for your business and support!"
+        "answer": "Please make sure to reach out to our support at support@getoutlier.com so we can figure out this issue together!"
       },
       "outside-the-us": {
         "label": "Outside the US",
@@ -64,17 +64,9 @@
         "label": "Partial",
         "answer": "Your order was split, so we could send you the items that we had in stock. The remainder of your order will be processed as soon as possible. Thank you for your business and patience!"
       },
-      "delivered": {
-        "label": "Delivered",
-        "answer": "According to our records, they indicate that your order has been delivered. Please provide any feedback you may have for this order. Thank you for your business and support!"
-      },
-      "tracking": {
-        "label": "Tracking",
-        "answer": "You should have received an email with your tracking information. Your tracking number is . Thank you for your business!!"
-      },
       "my-order-shows-you-still-have-it": {
         "label": "My order shows you still have it",
-        "answer": "According to our records, your order shipped. Once the package is labeled, we put them in a cart for UPS pick up. They pick up from us daily but do not scan them. They scan them in once they reach whatever UPS facility they take them. We can tell you is that it is on the way. Thank you for your business and support."
+        "answer": "Once the package is labeled, we put them in a cart for UPS pick up. They pick up from us daily but do not scan them. They scan them in once they reach whatever UPS facility they take them. Thank you for your business and support."
       },
       "no-shipping-notice": {
         "label": "No Shipping Notice",
@@ -96,25 +88,9 @@
         "label": "Missing Manuals",
         "answer": "We are currently working on finishing the manual. Once it is complete, it will be available on our website under the specific model product you are looking for. Thank you for your business and patience!"
       },
-      "shipping-questions-canada-greenville": {
-        "label": "Shipping questions\" Canada/Greenville",
-        "answer": "Arken Optics HQ, and Outliers shop and warehouse, are located in Texas. We also have a new distribution center in Canada, to help increase our product flow and availability. Thanks!"
-      },
       "shipping-label-cancelled": {
         "label": "Shipping label cancelled",
         "answer": "We apologize for the inconvenience. Our system had an error in reading inventory levels. As a result, it printed excess shipping labels, but did not have the stock to fill the shipments. We will ship your products as soon as possible. Thank you for your business and patience!"
-      },
-      "wrong-flip-its-to-tight": {
-        "label": "Wrong Flip its / To Tight",
-        "answer": "The flip-up covers are designed to fit very snugly to ensure optimal protection and security for your optics. Please review the video in the following link for easy instuctions of how to install. Thanks! https://www.dropbox.com/scl/fi/vao9foosyi2cwcf6i3lad/FlipItsInstallationHelp.mov?rlkey=c1tuasbtwg37hrbzvep09jigw&dl=0"
-      },
-      "i-bought-on-amazon": {
-        "label": "Purchased on Amazon",
-        "answer": "Unfortunately, when you buy other than from us, we cannot honor the same deals. For the best customer service and pricing, please buy direct from us at www.arkenopticsusa.com Thank you!"
-      },
-      "amazon-fulfillment-issues": {
-        "label": "Amazon fulfillment issues",
-        "answer": "Sorry for the inconvenience, but we only have the information from our website sales. If you need to return for refund or exchange, you must contact Amazon. This is the process for all Amazon orders. Thank you for your support and business."
       },
       "shipping-charges": {
         "label": "Shipping charges",
@@ -128,38 +104,9 @@
         "label": "Address Issues",
         "answer": "Your address has been flagged by our shipping equipment and it is not showing up on Google maps either. That does not always mean it is wrong but we would appreciate it if you can check what we have and either verify it, or alert us to any changes. If it is a business, box, or suite, please let us know. If it is an apartment, we need the name of the apartments and the apartment #. You entered:. Thank you in advance."
       },
-      "lost-in-transit-2": {
-        "label": "Lost in transit",
-        "answer": "According to our records, your order did ship. We apologize, but your order appears to have been lost in transit. Your new order number is X. Hopefully this one will get there. Should you receive the original order, please let us know. Thank you for your business and patience!!"
-      },
       "stolen-not-delivered": {
         "label": "Stolen/Not delivered",
         "answer": "We regret to hear that your package has gone missing. Please file a theft claim with UPS, and / or a police report for theft. Send us a copy of the claim or the report, we can then replace the order at 50% off regular price. Again, we regret this has happened, we will do what we can to help. Thank you for your business."
-      }
-    }
-  },
-  "international": {
-    "label": "International Orders",
-    "subcategories": {
-      "australia": {
-        "label": "Australia",
-        "answer": "We are not permitted to ship outside the US and it's territories. Please contact Phil via sales@deltatactical.com.au for Australia orders, shipping, and warranty issues. Thank you."
-      },
-      "south-africa-unofficial": {
-        "label": "South Africa (Unofficial)",
-        "answer": "We are not permitted to ship outside the US and it's territories. Please contact engageoptics.co.za for South Africa orders, shipping, and warranty issues. Thank you."
-      },
-      "ordering-outside-of-the-us": {
-        "label": "Ordering outside of the US",
-        "answer": "We are not permitted to ship outside the US and it's territories. Please reach out to Arken Optics Global, for all orders, information, and warranty issues. info@arkenoptics.com"
-      },
-      "dealer-application-international": {
-        "label": "Dealer application INTERNATIONAL",
-        "answer": "Please reach out to the following link to apply: info@arkenoptics.com"
-      },
-      "uk-eu": {
-        "label": "UK/EU",
-        "answer": "We are not permitted to ship outside the US and it's territories. We are required to ship to a US address only. All export laws such as ITAR and EAR and costs associated are explicitly the customers responsibility, and must be paid with US funds. Thank you."
       }
     }
   },
@@ -194,14 +141,6 @@
       "how-to-apply-discount": {
         "label": "How to apply discount",
         "answer": "Add all the items into your shopping bag that you are wanting. Click on Go To Checkout. Down close to the bottom, right under the order total dollar amount, is the line that says \"Discount or Reward Code? Click HERE to redeem\". Click there, and enter the discount code, and hit apply. You should be good to go. Please keep in mind that you are not allowed to combine rewards and other discount codes together. Thanks!"
-      },
-      "how-to-reclaim-rewards-points": {
-        "label": "How to reclaim rewards points",
-        "answer": "Points are associated with the discount code received. If you wish to place the points back in your account, simply follow the instructions in the link, through number 4. Thanks! https://www.forum.arkenopticsusa.com/forum/common-questions/reclaiming-rewards-points-that-were-unused"
-      },
-      "mil-leo-discount": {
-        "label": "MIL/LEO DISCOUNT",
-        "answer": "We do not have a broad discount program in place, but we do price our optics at the best price we can offer for everyone. However, we do provide special pricing to Mil/LEO for 'official use' purposes. We simply ask to receive a signed document, on department letterhead, stating that the request falls under this premise. Approved parties receive 30% off everything except the SH4 GENII lineup. Thank you for your interest in Arken Optics!"
       },
       "sign-on-issues-points-issues": {
         "label": "Sign on issues / Points issues",
@@ -290,10 +229,6 @@
         "label": "Adapter fitment",
         "answer": "All of our HUB's fit our suppressors. It is dependent on the mating part that determines the correct adapter. For standard barrels, you will need either the 1/2-28TPI, or 5/8-24TPI direct thread adapter. For the backdraft system, you will choose either the 1\"OD or 1.2\"OD adapter. 1\"OD adapter is for the AR9 and AR15's. The 1.2\"OD adapters are for the backdraft barrels and the AR10. Thanks!"
       },
-      "suppressor-rebate-code-in-the-box": {
-        "label": "Suppressor rebate code in the box",
-        "answer": "Please double check inside the box that your scope came in. You should find a card with your rebate code on it. Go to the backdraftsuppressors.com website, and enter the code in the redeem coupon box at checkout. Simply follow the prompted directions. Thanks!"
-      }
     }
   },
   "chassis": {
@@ -351,10 +286,6 @@
       "ffl-sot-not-listed": {
         "label": "FFL/SOT not listed",
         "answer": "Please double check that the filters are set correctly with your search. If they are correct, and you still can't locate the specific FFL/SOT, they will either need to send their information to licensing@masterffl.com, or you will need to choose a different FFL/SOT close to your area. Thanks!"
-      },
-      "dealer-application-usa-2": {
-        "label": "Dealer application USA",
-        "answer": "Please reach out to the following link to apply. https://dealers.arkenopticsusa.com/"
       }
     }
   },
@@ -398,113 +329,9 @@
         "label": "Screws",
         "answer": "Action screws: Black 1/4-28 x 1/2\" & 1/4-28 x 2\" - Per manufacturers recommendations (typically 40-75 in/lbs) - Qty=1 & 1"
       },
-      "leveling-and-tracking": {
-        "label": "Leveling and tracking",
-        "answer": "Start by leveling the rifle from the scope rail. Once that is done, align the vertical stadia of the reticle to a plumb line. (**NOTE** Do not use the top of the turret to level the scope.) Tighten all the screws for the rings or mount in a torquing pattern. Go slow with this stage, ensuring that the reticle stays aligned with the plumb line. Once you have reached 18in/lbs of torque, you should be done. Next, ensure that the rifle is stationary, and run the turret up and down the full extent of travel, making sure the reticle stays true to the plumb line. If it does not, make adjustments to the level of the reticle. Now check the tracking with a tall target test. Our tracking error should be 2% or less."
-      },
-      "not-holding-can-t-set": {
-        "label": "Not holding - Can't set",
-        "answer": "Make sure the scope rings are properly tightened and there is no play in the scope to rings or rings to rail connections. Check your scope rail screws as well. Check your muzzle brake if you have one. Check those details, and let us know. Thank you for your support and business."
-      },
-      "taking-scopes-out-of-the-us": {
-        "label": "Taking scopes out of the US",
-        "answer": "Due to ITAR and EAR regulations, we are not permitted to ship outside the US or it's territories. You may purchase the scope, send it to a US address, but you will still be under the ITAR/EAR regulations if you try taking it out of the country. If you choose to proceed to make this purchase, you are doing so at your own risk. Arken Optics will not be held responsible or liable for any refunds."
-      },
-      "taking-scopes-out-of-the-greenville-office": {
-        "label": "Taking scopes out of the Greenville Office",
-        "answer": "Our facility in Greenville is for shipping, receiving, and manufacturing only. We do not have a store front in which to conduct business. Our insurance provider restricts us from having customers in the manufacturing areas. Sorry for the inconvenience."
-      },
-      "setting-scope-and-rifle-to-your-eye": {
-        "label": "Setting scope and rifle to your eye",
-        "answer": "You will need to make sure that you properly set up your rifle to fit you. You will need to close your eyes, and get comfortable behind the rifle, totally relaxed. Once you open your eye, you should have full complete view of the glass. If not, make the necessary adjustments to achieve this. Either raise or lower your cheek weld, or move the scope forward or rearward to get the full view. Spend the time in the set up, to ensure that you have the correct eye relief, sight picture, and bone support, and not muscle support. This will also help to prevent eye and neck fatigue and strain."
-      },
-      "caliber-capability": {
-        "label": "CALIBER CAPABILITY",
-        "answer": "Our scopes are rated to handle up to 50 BMG, and can also take on the scope eating SCAR17! If you can handle the recoil, the scope can as well!! Thank you for your interest in Arken Optics USA!!"
-      },
-      "caps-are-difficult-to-install": {
-        "label": "Caps are difficult to install",
-        "answer": "The caps are supposed to be tight, to prevent them from moving when you use them. There is a short installation video link attached. Check it out to see if it helps! https://www.dropbox.com/scl/fi/vao9foosyi2cwcf6i3lad/FlipItsInstallationHelp.mov?rlkey=c1tuasbtwg37hrbzvep09jigw&dl=0"
-      },
-      "ep-vs-sh-difference": {
-        "label": "EP vs SH DIFFERENCE",
-        "answer": "The EP series has Japanese ED glass and the SH series has Chinese HD glass, with the exception of the SH4J. The EP series also has 10mil/revolution and the SH, and the new EPL4 has 8mil/rev. All of our products are manufactured in our facility in China, with the exception of the Japanese ED glass. For more information, check out the specifications on our website at www.arkenopticsusa.com"
-      },
-      "ep8-bdc-info": {
-        "label": "EP8 BDC info",
-        "answer": "The KLBox was designed for the 77gr 5.56, and the 147gr 7.62 projectiles. I am not certain on the barrel length for the true velocities in ranging. Stay tuned!"
-      },
-      "focus-issues-with-ep8-lh6": {
-        "label": "Focus Issues with EP8, LH6",
-        "answer": "Your optic should be very clear. Make sure you have set the diopter to your eye first. You can do this by focusing the scope on max power. Start with the diopter turned all the way in, and then backing it out a little at a time. Go \"slow\" with these adjustments, as the diopter is touchy on the adjustments. Look through the scope to see if the reticle is instantly clear. If not, make a slight adjustment, and check the clarity again. Don't look through the scope for very long, as your eyes will make the adjustments for you. Once the reticle is crystal clear instantly, then you should be good to go. Let me know if you need further assistance. Thank you for your support and business."
-      },
-      "illumination-hard-to-turn": {
-        "label": "Illumination hard to turn",
-        "answer": "We have seen that sometimes the illumination is hard to turn from our tight manufacturing tolerances. A simple fix, is to heat up the knob and surrounding area with a hairdryer. Twist it a few times, and it will work itself free and will operate smoothly after that. Give it a try and let us know. Thanks!"
-      },
-      "magnification-ring-stuck": {
-        "label": "Magnification ring stuck",
-        "answer": "We have seen that sometimes the magnification ring is hard to turn from our tight manufacturing tolerances. A simple fix, is to heat up the ring and surrounding area with a hairdryer. Twist it a few times, and it will work itself free and will operate smoothly after that. Give it a try and let us know. Thanks!"
-      },
-      "parallax-clicking-parallax-in-a-bind": {
-        "label": "Parallax clicking / Parallax in a bind",
-        "answer": "The parallax may be in a bind. Move the front ring toward the objective bell as far as possible. Ensure that you don't over torque the ring. This should free up the parallax tube inside the scope, to be able to move freely. Give it a try and let us know."
-      },
-      "parallax-numbers-don-t-line-up": {
-        "label": "Parallax numbers don't line up",
-        "answer": "Make sure you have set the diopter correctly for your eyes first, that may solve the issue. The numbers are for reference only, and are not intended to be used as a rangefinder. There are many variables that will make the scope show different numbers for different people. Please check it and let us know."
-      },
       "water-proofing-building-standard": {
         "label": "Water proofing building standard",
         "answer": "We utilize the IPX7 Standard for water proofing."
-      },
-      "windage-issues": {
-        "label": "WINDAGE ISSUES",
-        "answer": "There is a possibility that the turret wasn't centered from the factory. Count your total clicks to each limit, and then take that number and divide by 2. Take that number, and count back that number of clicks from either limit. Then slip the turret completely off and reinstall it to zero. Then zero your scope again, that should fix the issue. Let us know if you need any further assistance. Thank you for your support and business."
-      },
-      "zerostop-set-instructions": {
-        "label": "ZeroStop set instructions",
-        "answer": "Back out the lock and set screws for the ZeroStop. Sight in your rifle. Loosen the (3) turret perimeter screws, and set the turret on -0-. Tighten the (3) turret perimeter screws. Turn the turret 3 clicks up from -0-. Turn the ZeroStop set screw down until it makes contact with the ZeroStop plate. Back the screw out 1 full turn. Tighten the ZeroStop lock screw. Now turn the turret back to -0-. You should feel a positive stop, and it should be dead on -0-. Let me know if that works for you. I have attached a short video for you as reference. Thanks! https://www.dropbox.com/s/ajbzhitsx4cfllf/ZeroStop.mov?dl=0"
-      },
-      "ep5-threads": {
-        "label": "EP5 threads",
-        "answer": "M61 X 0.75mm"
-      },
-      "ep5g2-threads": {
-        "label": "EP5G2 threads",
-        "answer": "M59 X 0.75mm"
-      },
-      "ep8-threads": {
-        "label": "EP8 threads",
-        "answer": "M30* 0.75mm"
-      },
-      "epl4-threads-44mm": {
-        "label": "EPL4 threads - 44mm",
-        "answer": "44mm = M48 x 0.75mm"
-      },
-      "epl4-threads-50mm": {
-        "label": "EPL4 threads - 50mm",
-        "answer": "50mm = M54 x 0.60mm"
-      },
-      "lh4-threads-44mm": {
-        "label": "LH4 threads - 44mm",
-        "answer": "44mm = M48 x 0.75mm"
-      },
-      "lh4-threads-50mm": {
-        "label": "LH4 threads - 50mm",
-        "answer": "50mm = M54 x 0.60mm"
-      },
-      "sh4-threads": {
-        "label": "SH4 threads",
-        "answer": "M57 X 0.75mm"
-      },
-      "sh4j-threads": {
-        "label": "SH4J threads",
-        "answer": "M54 X 0.6mm"
-      },
-      "screws-loose": {
-        "label": "SCREWS LOOSE",
-        "answer": "We highly recommend using Vibra-Tite Vc3, or Vibra-Tite 122. Vibra-Tite Vc3 and 122 are specifically designed for shock/vibration type applications. Thanks!"
       }
     }
   },
@@ -523,10 +350,6 @@
         "label": "Order not found",
         "answer": "We have received your return but can't find any previous order associated with your name or email address. Please reply with your shipping address so we can get you taken care of asap. Thank you got your business!"
       },
-      "sponsored-shooters": {
-        "label": "Sponsored shooters",
-        "answer": "We don't have a sponsored shooter program at this time. We hope to be able to add some additional programs in the future. We do recommend that you apply to be a dealer. You don't have to stock any products, and you get paid for every sale. Make a few sales, and your stuff is basically free! Please reach out to the following link to apply: https://arkendealers.com/become-an-arken-optics-dealerThanks for the inquiry."
-      },
       "tax-calculator": {
         "label": "Tax Calculator",
         "answer": "https://www.taxjar.com/sales-tax-calculator"
@@ -542,18 +365,6 @@
       "how-does-the-site-work-and-what-do-i-order": {
         "label": "How does the site work and what do I order?",
         "answer": "There is a process on our website (Backdraft Suppressors) that will have you fill out what SOT you would like the suppressor sent to. The $200 tax stamp will still be in effect until January 1st, 2026 to our knowledge, however, we are talking about the Government which is shut down. Right now they aren't processing any suppressor paperwork to my knowledge. So our hub mount you can get in either 5/8x24 or 1/2x28. Or you can get a direct thread in either of those thread pitches. So all in all customers will have 4 options for their mounting choice, which is an option under adapters on the website to choose. The suppressor doesn't come with the mount. If you have a back draft barrel then you would choose 1 of 2 options for the hub adaptor proprietary to work with our back draft barrels. Hope this all makes sense to you. Thank you for your support."
-      },
-      "battery-cap": {
-        "label": "BATTERY CAP",
-        "answer": "BAT30 & BAT34 (EP8 & LH6 uses BAT30)"
-      },
-      "battery-install": {
-        "label": "BATTERY INSTALL",
-        "answer": "The battery goes in the very end of the parallax knob. You have to hold the parallax knob from turning and twist off the cap at the end to install the battery. The positive side faces out when you install the battery. Thank you for your support and business."
-      },
-      "illum-battery": {
-        "label": "Illum/battery",
-        "answer": "We have seen that sometimes the prongs on the lid sometimes need to be pushed down, bent out, or rotated slightly. Also if you take like a q-tip and clean out the cap and battery compartment that will sometimes make it work better. Let me know if that improves the illumination for you."
       }
     }
   },
@@ -583,10 +394,6 @@
       "seal-1-clp-plus": {
         "label": "SEAL 1 CLP Plus",
         "answer": "SEAL 1 CLP Plus can be used for a variety of purposes. It dissolves carbon on contact, reducing cleaning time and making it easier to clean guns in the future. Plus it works as a lubrication for installation, and creates a barrier that protects against copper, lead, sand, dust, and dirt and rust."
-      },
-      "sponsored-shooters": {
-        "label": "Sponsored shooters",
-        "answer": "We do not have a sponsored shooter program at this time. We hope to be able to add some additional programs in the future. We do recommend that you apply to be a dealer. You don't have to stock any products, and you get paid for every sale. Make a few sales, and your stuff is basically free! Please reach out to the following link to apply: https://arkendealers.com/become-an-arken-optics-dealerThanks for the inquiry."
       },
       "tax-on-orders": {
         "label": "Tax on orders",
@@ -721,10 +528,6 @@
       "how-to": {
         "label": "How to",
         "answer": "After you sign in, go to the blue colored wallet at the bottom of the page. That is where you select how many rewards points you wish to use. You will then receive the code for the amount of points you have, to cash in towards your order. It will send you an email thanking you for redeeming your points. You may not use your rewards towards taxes or shipping, and can't use them in conjunction with any other discounts. Thanks!"
-      },
-      "sign-up": {
-        "label": "Sign up",
-        "answer": "Simply go to our website and open the main page. Look for the \"REWARDS\" tab on the right side. Click on it and fill out the form. Important note: All orders and communication to and from Arken should always use the same email address to insure proper credit. Thank you for your business and support."
       }
     }
   },
@@ -736,244 +539,8 @@
         "answer": "We are no longer associated with PayPal due to their stance on the 2nd Amendment, and the mishandling of our payments. We do take all major credit and debit cards. Thanks for your business!"
       }
     }
-  },
-  "products": {
-    "label": "products",
-    "subcategories": {
-      "where-made": {
-        "label": "Where made",
-        "answer": "All of our products and manufactured in our facility in China, with the exception of the Japanese ED glass found in our EP scope line and SH4J. Thanks!"
-      }
-    }
-  },
-  "scope": {
-    "label": "scope",
-    "subcategories": {
-      "included-items": {
-        "label": "Included items",
-        "answer": "All of our scopes come with a sunshade, bikini style cover, lens cloth, manual, and the allen wrench for the turrets. Thank you for your interest in Arken Optics USA!!"
-      },
-      "ring-marks-on-tube": {
-        "label": "Ring marks on tube",
-        "answer": "Part of our process for QA is to put them in rings and check tracking on a device called a collimator. They only tighten the rings tight enough to prevent the scope from moving during the process. There is the possibility that they might have torqued the rings close to our specs. We would never send out a used scope to our customers. Thank you for your support and business."
-      },
-      "setting-factory-center": {
-        "label": "Setting factory center",
-        "answer": "Turn the turret out until you see the largest indicator line with the \"0\" designation. This is the mechanical center for the turret and scope mechanicals, either for elevation or windage. At this point, after setting both elevation and windage, you can then proceed to establish the rifle's zero. Thanks for your business!"
-      },
-      "sliding": {
-        "label": "Sliding",
-        "answer": "You can apply batters rosin to the bearing surfaces, or a thin piece of double stick tape to help. Torque the caps to 18 in/lbs. You will need to verify that the torque on the caps is equal on both sides, to evenly distribute the pressure across all of the screws. This will all help to ensure that the scope doesn't move from recoil. Let us know if you run into any further issues. Thanks!"
-      },
-      "turret-travel-issues": {
-        "label": "Turret travel issues",
-        "answer": "You will need to make sure that you back out the ZeroStop lock and set screws, and then lock the set screw back down with the brass screw. You should have access to all of the internal travel of the scope, as long as your windage turret is set to optical center. Optical center will be at the long line marked with the 0 indicator. Check your travel, and let us know if you still have any issues. Thanks!"
-      }
-    }
-  },
-  "warranty": {
-    "label": "warranty",
-    "subcategories": {
-      "lifetime": {
-        "label": "Lifetime",
-        "answer": "This is our promise to all shooters. If your Arken Optics product doesn't perform, we will replace or repair it immediately, for free, no questions asked. No warranty card to fill out, no receipt needed to hang on to, and it is fully transferable. We do this because we believe in superior quality and craftsmanship, and we're confident your Arken products won't let you down."
-      }
-    }
-  },
-  "orders": {
-    "label": "orders",
-    "subcategories": {
-      "accessories": {
-        "label": "Accessories",
-        "answer": "SKU's below"
-      },
-      "bikini-covers": {
-        "label": "BIKINI COVERS",
-        "answer": "BIKINI BIKINI 28, 44, 50, 56"
-      },
-      "turret-orders": {
-        "label": "TURRET ORDERS",
-        "answer": "EP5-TE or EP5-TW"
-      },
-      "epl4-windage-cap": {
-        "label": "EPL4 Windage cap",
-        "answer": "EPL4-WC"
-      },
-      "ep8-elevation-and-windage-caps": {
-        "label": "EP8 Elevation and Windage caps",
-        "answer": "EP8 E/W CAPS"
-      },
-      "lh4-elevation-and-windage-caps": {
-        "label": "LH4 Elevation and Windage caps",
-        "answer": "LH4-TC"
-      },
-      "flip-its": {
-        "label": "FLIP ITS",
-        "answer": "Object Ocular"
-      },
-      "xs": {
-        "label": "XS",
-        "answer": "XS (TS-STA-XS)"
-      },
-      "s": {
-        "label": "S",
-        "answer": "S (TS-TSA-S)"
-      },
-      "m": {
-        "label": "M",
-        "answer": "M (TS-STA-M)"
-      },
-      "l": {
-        "label": "L",
-        "answer": "L (TS-STA-L)"
-      },
-      "xl": {
-        "label": "XL",
-        "answer": "XL (TS-STA-XL)"
-      },
-      "xxl": {
-        "label": "XXL",
-        "answer": "XXL (TS-STA-XXL)"
-      },
-      "xxxl": {
-        "label": "XXXL",
-        "answer": "XXXL (TS-STA-XXXL)"
-      },
-      "30mm": {
-        "label": "30MM",
-        "answer": "30mm - 0.97 Low (AHSR-30Low)"
-      },
-      "ti-30mm": {
-        "label": "Ti 30MM",
-        "answer": "30mm - 0.97 Low (HRT-30097)"
-      },
-      "34mm": {
-        "label": "34MM",
-        "answer": "34mm - 0.92 Low (AHSR-34Low)"
-      },
-      "ti-34mm": {
-        "label": "Ti 34MM",
-        "answer": "34mm - 0.92 Low (HRT-34092)"
-      },
-      "optic": {
-        "label": "OPTIC",
-        "answer": "STATUS"
-      }
-    }
-  },
-  "scope-screw-pack": {
-    "label": "scope-screw-pack",
-    "subcategories": {
-      "g2": {
-        "label": "G2",
-        "answer": "SSPG2"
-      }
-    }
-  },
-  "screw": {
-    "label": "screw",
-    "subcategories": {
-      "throw-lever": {
-        "label": "Throw lever",
-        "answer": "SCREW TL34"
-      },
-      "turret-set-stainless": {
-        "label": "TURRET SET (Stainless)",
-        "answer": "The X3 turret cap screws are M4*12 - All use a size 2mm allen wrench."
-      },
-      "wind-elev-turret": {
-        "label": "WIND/ELEV TURRET",
-        "answer": "M4*12"
-      }
-    }
-  },
-  "weight": {
-    "label": "weight",
-    "subcategories": {
-      "epl4": {
-        "label": "EPL4",
-        "answer": "416 - 23.9oz, 624 - 24.8oz"
-      },
-      "lh4": {
-        "label": "LH4",
-        "answer": "416 - 24.6oz, 624 - 25.7"
-      }
-    }
-  },
-  "custom-turrets": {
-    "label": "custom-turrets",
-    "subcategories": {
-      "kenton-industries": {
-        "label": "Kenton Industries",
-        "answer": "We recommend Kenton Industries to assist you with custom turrets. Please visit their website at www.kentonindustries.com"
-      }
-    }
-  },
-  "focus-issues": {
-    "label": "focus-issues",
-    "subcategories": {
-      "sh4-epl4-ep5-sh4j-lh4": {
-        "label": "SH4, EPL4, EP5, SH4J, LH4",
-        "answer": "Your optic should be very clear. Make sure you have set the diopter to your eye first. You can do this by focusing the scope on max power and the parallax at infinity. Start with the diopter turned all the way in, and then backing it out a little at a time. Look through the scope to see if the reticle is instantly clear. If not, make a slight adjustment, and check the clarity again. Don't look through the scope for very long, as your eyes will make the adjustments for you. Once the reticle is crystal clear instantly, then you should be good to go, and can set the parallax for focus at distance. Let me know if you need further assistance. Thank you for your support and business."
-      }
-    }
-  },
-  "glass": {
-    "label": "glass",
-    "subcategories": {
-      "sh4-and-lh4": {
-        "label": "SH4 and LH4",
-        "answer": "The SH4 and LH4 has the Chinese HD glass. The EPL4 has the Japanese ED glass. Thank you for your interest!"
-      }
-    }
-  },
-  "reticle": {
-    "label": "reticle",
-    "subcategories": {
-      "bullet-drop-calculations-klbox": {
-        "label": "Bullet Drop Calculations - KLBox",
-        "answer": "There are examples of drop charts for both the 5.56 and the 7.62, within the manual both the hardback version (comes w/scope) and the online manual (show more under product details). They explain the numbers and how to adjust for your gun if they are different. As long as you have the ability to get an accurate muzzle velocity to input your numbers into a ballistic calculator, you can figure out if you will need to dial up/down based of your numbers compared to original design intent. Thank you for your support and business."
-      }
-    }
-  },
-  "ring-height": {
-    "label": "ring-height",
-    "subcategories": {
-      "what-to-get": {
-        "label": "What to get",
-        "answer": "Ring height is a very personal choice. Please the following link for details. Thanks! https://www.arkenforum.com/forum/common-questions/which-ring-height-should-i-get"
-      }
-    }
-  },
-  "screws": {
-    "label": "screws",
-    "subcategories": {
-      "stripped-in-turret-not": {
-        "label": "Stripped in turret (NOT)",
-        "answer": "Most likely the grub screw isn't stripped, as it is hardened stainless. Please try using a hardened allen wrench, or a #8 or #9 Torx bit, as it is a much better fit and will most likely take care of the issue. Thanks!"
-      }
-    }
-  },
-  "stadia": {
-    "label": "stadia",
-    "subcategories": {
-      "values-for-mil-and-moa": {
-        "label": "Values for MIL and MOA",
-        "answer": "The hash marks are either in MIL or MOA. To use these for rangefinding, you will need to follow these formulas. MIL is Size of Target (inches) x 27.78 / Measured MIL = Yards. MOA is Size of Target (inches) x 95.5 / Measured MOA = Yards. All of our reticles are based on either true MIL or true MOA."
-      }
-    }
-  },
-  "zero": {
-    "label": "zero",
-    "subcategories": {
-      "0-mark-correction": {
-        "label": "0- mark correction",
-        "answer": "It is possible, that your stop plate has moved. You will need to remove the turret, and slightly loosen the (3) 0.9mm screws around the perimeter of the plate. Turn the plate till the stop bar is pointed down in the 6:00 o'clock position. Use the turret with the ZeroStop set screw screwed in far enough that the post is protruding out. This will basically be your tool to set the stop plate in the correct position. Turn the turret so the -0- lines up exactly with the line on the body of the scope. Remove the turret and tighten the (4) 0.9mm screws to secure the stop plate. Replace the turret and re-zero the rifle. Set the ZeroStop feature of the scope, and you are good to go. https://www.dropbox.com/s/5wszqv3uohbh8la/ZeroStopPlate.mov?dl=0"
-      }
-    }
   }
 };
-
   const SETTINGS = {
     buttonText: "Help / FAQs",
     titleText: "Support Center"
