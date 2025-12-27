@@ -88,10 +88,6 @@
         "label": "Missing Manuals",
         "answer": "We are currently working on finishing the manual. Once it is complete, it will be available on our website under the specific model product you are looking for. Thank you for your business and patience!"
       },
-      "shipping-label-cancelled": {
-        "label": "Shipping label cancelled",
-        "answer": "We apologize for the inconvenience. Our system had an error in reading inventory levels. As a result, it printed excess shipping labels, but did not have the stock to fill the shipments. We will ship your products as soon as possible. Thank you for your business and patience!"
-      },
       "shipping-charges": {
         "label": "Shipping charges",
         "answer": "The system is set up to process the suppressors one at a time. Each suppressor is assigned to an individual suppressor, and they will all require shipping and handling charges. Thanks!"
@@ -102,7 +98,7 @@
       },
       "address": {
         "label": "Address Issues",
-        "answer": "Your address has been flagged by our shipping equipment and it is not showing up on Google maps either. That does not always mean it is wrong but we would appreciate it if you can check what we have and either verify it, or alert us to any changes. If it is a business, box, or suite, please let us know. If it is an apartment, we need the name of the apartments and the apartment #. You entered:. Thank you in advance."
+        "answer": "If your address has been flagged by our shipping equipment and it is not showing up on Google maps. That does not always mean it is wrong but we would appreciate it if you can check what we have and either verify it, or alert us to any changes. If it is a business, box, or suite, please let us know. If it is an apartment, we need the name of the apartments and the apartment #. Thank you in advance."
       },
       "stolen-not-delivered": {
         "label": "Stolen/Not delivered",
@@ -182,10 +178,6 @@
       "barrels": {
         "label": "Barrels",
         "answer": "We are currently producing the Remington barrels at this time. We estimate starting on the Savage barrels in approximately 3-4 weeks. Thank you for your business and patience!"
-      },
-      "barrels-in-process": {
-        "label": "barrels in process",
-        "answer": "Your order is in process and unable to change it. Before proceeding with your change/cancellation, we must ask you to please go to our returns policy page on the website, under INFORMATION, and read over the details of said return. Once you have read and understood the return policy, please reply to the email, and let us know if you wish to proceed. Thank you for your business and support!"
       },
       "savage-small-or-large": {
         "label": "Savage Small or Large",
@@ -346,10 +338,6 @@
         "label": "MIL/LEO short answer",
         "answer": "We offer an \"Official Use Only\" discount for Mil/LEO. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Thanks!"
       },
-      "order-not-found": {
-        "label": "Order not found",
-        "answer": "We have received your return but can't find any previous order associated with your name or email address. Please reply with your shipping address so we can get you taken care of asap. Thank you got your business!"
-      },
       "tax-calculator": {
         "label": "Tax Calculator",
         "answer": "https://www.taxjar.com/sales-tax-calculator"
@@ -375,10 +363,6 @@
         "label": "CIP Receiver Modifications",
         "answer": "https://www.snipershide.com/shooting/threads/700-long-action-cip.6922197/"
       },
-      "lookout-for-notification": {
-        "label": "Lookout for notification",
-        "answer": "Be on the lookout for the email with your shipping notification and tracking information. Thank you for your business and patience!"
-      },
       "magazine-catch-installation": {
         "label": "Magazine Catch Installation",
         "answer": "https://www.dropbox.com/scl/fi/t5qqkwgdnal8x9bf8s6u8/MagCatchInstall.mov?rlkey=waypizmev51p4txrm1j8dg6wd&st=0of7ntw6&dl=0"
@@ -389,7 +373,7 @@
       },
       "order-didn-t-go-through": {
         "label": "Order didn't go through",
-        "answer": "Our payment processor denied the transaction. The funds were returned immediately. Your financial institution will typically hold the funds for 3-5 business days to process back to your account. Sorry for the inconvenience."
+        "answer": "Our payment processor may have denied the transaction. The funds were returned immediately. Your financial institution will typically hold the funds for 3-5 business days to process back to your account. Sorry for the inconvenience."
       },
       "seal-1-clp-plus": {
         "label": "SEAL 1 CLP Plus",
@@ -479,7 +463,7 @@
     }
   },
   "rebate-code": {
-    "label": "rebate-code",
+    "label": "Rebate Code",
     "subcategories": {
       "site-doesn-t-work": {
         "label": "Site doesn't work",
@@ -491,43 +475,12 @@
       }
     }
   },
-  "return-policy-change-in-process": {
-    "label": "return-policy-change-in-process",
-    "subcategories": {
-      "1": {
-        "label": "#1",
-        "answer": "Your order has made it to the manufacturing process. Therefore, we will charge $35 for the change to occur. as the material and time has already been dedicated to the shipment of the order. Please advise."
-      }
-    }
-  },
-  "special-requests-1": {
-    "label": "special-requests-1",
-    "subcategories": {
-      "offs": {
-        "label": "Offs)",
-        "answer": "At this time, we can not take on any special requests. We can only produce items that are found on our website, due to tooling and programming. We are working to increase the available items. Sorry for the inconvenience. Please check back often. Thanks!"
-      }
-    }
-  },
   "suppressor": {
     "label": "suppressor",
     "subcategories": {
-      "rebate-emails-need-to-be-sent": {
-        "label": "Rebate emails need to be sent",
-        "answer": "I have posted your order number with the individual who is assigning rebate numbers. You should be getting an email with the rebate information soon. Thank you for your business and support!"
-      },
       "rebate-process": {
         "label": "Rebate process",
         "answer": "You will need to find the \"R\" number on your barrel. It will begin with RB-####. You will need to enter the information exactly as it shows on the barrel, into the system on the backdraftsuppressors.com website. Let us know if need any further assistance. Thank you for your business and support!"
-      }
-    }
-  },
-  "rewards": {
-    "label": "rewards",
-    "subcategories": {
-      "how-to": {
-        "label": "How to",
-        "answer": "After you sign in, go to the blue colored wallet at the bottom of the page. That is where you select how many rewards points you wish to use. You will then receive the code for the amount of points you have, to cash in towards your order. It will send you an email thanking you for redeeming your points. You may not use your rewards towards taxes or shipping, and can't use them in conjunction with any other discounts. Thanks!"
       }
     }
   },
