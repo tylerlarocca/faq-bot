@@ -15,10 +15,6 @@
         "label": "Nitride",
         "answer": "We are currently waiting on the barrels to come back from the nitride processing. We are expecting them to arrive sometime soon. We will ship your order out to you promptly, once we complete our final steps for production. Be on the lookout for the email shipping notice along with your tracking information. Thanks for your business and patience!"
       },
-      "order-system": {
-        "label": "Order system",
-        "answer": "Unfortunately, it appears that your order was one that didn't transition over to our new production software. We apologize for the delay, and we will request a rush to be placed on your order. Thank you for your business and patience!"
-      },
       "reamers": {
         "label": "Reamers",
         "answer": "We are still waiting on the new reamers. We estimate 4-6 weeks to receive them, and then approximately 3-4 weeks for us to build your barrel. Sorry for the delay."
@@ -129,10 +125,6 @@
       "no-discount-stacking": {
         "label": "No Discount Stacking",
         "answer": "You are allowed to use any of the discount codes or the rewards points, but no discounts can be combined. We are not allowed to stack multiple discounts on one order. Thanks!"
-      },
-      "stacking-not-allowed": {
-        "label": "Stacking not allowed",
-        "answer": "You are allowed to use any of the discount codes or rewards points, but no discounts can be combined. We are not allowed to stack multiple discounts on one order. Thanks!"
       },
       "how-to-apply-discount": {
         "label": "How to apply discount",
