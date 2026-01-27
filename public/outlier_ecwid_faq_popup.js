@@ -50,7 +50,7 @@
       },
       "lost-in-transit": {
         "label": "Lost in Transit",
-        "answer": "Please make sure to reach out to our support at support@getoutlier.com so we can figure out this issue together!"
+        "answer": "Please make sure to reach out to our support at info@getoutlier.com so we can figure out this issue together!"
       },
       "outside-the-us": {
         "label": "Outside the US",
@@ -80,10 +80,6 @@
         "label": "Missing items / Check packing list",
         "answer": "The packing slip (which looks like a return shipping label) indicates all the items that were included in that shipment. The remainder of your order (not shown in the items list) will be shipping once we have those items back in stock. Thank you for your business and patience!"
       },
-      "missing-manuals": {
-        "label": "Missing Manuals",
-        "answer": "We are currently working on finishing the manual. Once it is complete, it will be available on our website under the specific model product you are looking for. Thank you for your business and patience!"
-      },
       "shipping-charges": {
         "label": "Shipping charges",
         "answer": "The system is set up to process the suppressors one at a time. Each suppressor is assigned to an individual suppressor, and they will all require shipping and handling charges. Thanks!"
@@ -96,10 +92,6 @@
         "label": "Address Issues",
         "answer": "If your address has been flagged by our shipping equipment and it is not showing up on Google maps. That does not always mean it is wrong but we would appreciate it if you can check what we have and either verify it, or alert us to any changes. If it is a business, box, or suite, please let us know. If it is an apartment, we need the name of the apartments and the apartment #. Thank you in advance."
       },
-      "stolen-not-delivered": {
-        "label": "Stolen/Not delivered",
-        "answer": "We regret to hear that your package has gone missing. Please file a theft claim with UPS, and / or a police report for theft. Send us a copy of the claim or the report, we can then replace the order at 50% off regular price. Again, we regret this has happened, we will do what we can to help. Thank you for your business."
-      }
     }
   },
   "payments": {
@@ -144,7 +136,7 @@
         "answer": "Rest assured your order is in good standing. We are diligently working toward completing everyone's order as quickly as possible. Thank you for your business and patience!"
       },
       "breakin-process": {
-        "label": "Breakin process",
+        "label": "Break-in process",
         "answer": "With our hand lapping process and finishing, you only need to clean it to your liking, and go shoot! Thanks!!"
       },
       "specifications": {
@@ -182,15 +174,6 @@
       "outlier-barrels-and-chassis-questions": {
         "label": "Outlier barrels and chassis questions...",
         "answer": "Please reach out to our sister company: info@getoutlier.com"
-      }
-    }
-  },
-  "brakes": {
-    "label": "Brakes",
-    "subcategories": {
-      "manufacturing-times": {
-        "label": "Manufacturing times",
-        "answer": "We are currently machining the brakes now. We estimate shipping to begin in 1 week for the stainless, and approximately another 2-3 weeks for the nitride version. Thanks!"
       }
     }
   },
@@ -464,16 +447,11 @@
       "orders-over-500": {
         "label": "Orders over $500",
         "answer": "Your order qualified you for our suppressor rebate. You will receive an email shortly, with the rebate information, and instructions on how to proceed. Thank you for your business and support!"
-      }
-    }
-  },
-  "suppressor": {
-    "label": "suppressor",
-    "subcategories": {
-      "rebate-process": {
+      },
+       "rebate-process": {
         "label": "Rebate process",
         "answer": "You will need to find the \"R\" number on your barrel. It will begin with RB-####. You will need to enter the information exactly as it shows on the barrel, into the system on the backdraftsuppressors.com website. Let us know if need any further assistance. Thank you for your business and support!"
-      }
+       }
     }
   },
   "paypal": {
