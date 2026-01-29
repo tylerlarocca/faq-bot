@@ -647,7 +647,7 @@ function openContactPopup() {
       el("div", { class: "outlier-faq__contact-title" }, [textNode("Contact Support")]),
       el("div", { class: "outlier-faq__contact-text" }, [
         textNode("Email "),
-        el("span", { class: "outlier-faq__contact-email" }, [textNode("support@getoutlier.com")])
+        el("span", { class: "outlier-faq__contact-email" }, [textNode("info@getoutlier.com")])
       ]),
       el("div", { class: "outlier-faq__contact-actions" }, [
         el("button", { type: "button", class: "outlier-faq__contact-btn", id: "outlier-faq-copy-email" }, [textNode("Copy email")]),
@@ -666,7 +666,7 @@ function openContactPopup() {
     overlay.addEventListener("click", close);
     win.querySelector("#outlier-faq-close-contact").addEventListener("click", close);
     win.querySelector("#outlier-faq-copy-email").addEventListener("click", async function () {
-      const email = "support@getoutlier.com";
+      const email = "info@getoutlier.com";
       try {
         await navigator.clipboard.writeText(email);
         const btn = win.querySelector("#outlier-faq-copy-email");
