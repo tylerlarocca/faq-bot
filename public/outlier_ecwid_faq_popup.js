@@ -1,43 +1,11 @@
-(function () {
+ (function () {
   const FAQ_DATA = {
   "delays": {
     "label": "Delays",
     "subcategories": {
-      "ruger-american-delays": {
-        "label": "Ruger American delays",
-        "answer": "Our apologies. We have experienced a shift in the action screw spacing, and are in the process of correcting the issue. Once completed, we will be shipping your order as soon as possible. Thank you for your business and patience!"
-      },
-      "anodize": {
-        "label": "Anodize",
-        "answer": "We are currently waiting on parts to come back from the anodizer. We are building orders with the parts as they come in. We should be shipping your order fairly soon. Thank you for your patience!"
-      },
-      "nitride": {
-        "label": "Nitride",
-        "answer": "We are currently waiting on the barrels to come back from the nitride processing. We are expecting them to arrive sometime soon. We will ship your order out to you promptly, once we complete our final steps for production. Be on the lookout for the email shipping notice along with your tracking information. Thanks for your business and patience!"
-      },
-      "reamers": {
-        "label": "Reamers",
-        "answer": "We are still waiting on the new reamers. We estimate 4-6 weeks to receive them, and then approximately 3-4 weeks for us to build your barrel. Sorry for the delay."
-      },
-      "3d-parts": {
-        "label": "3D parts",
-        "answer": "We are still waiting on the 3D printed parts to arrive. We are pushing as hard as we can to get the parts in to be able to ship out orders. Please hang in there!"
-      },
       "manufacturing-options": {
         "label": "Manufacturing options",
         "answer": "The advertised 4 weeks, is for a basic stainless straight barrel. Any additional options add time to complete production. We promise to have your barrel completed as soon as we possibly can. Be on the lookout for your shipping notification with tracking information. Thanks!"
-      },
-      "order-is-complete": {
-        "label": "Order is complete",
-        "answer": "Your order has been completed through the manufacturing. It is currently in our que for our final processing. Be on the lookout for the email with your shipping notification and tracking information. Thanks for your business!"
-      },
-      "order-is-in-process": {
-        "label": "Order is in process",
-        "answer": "Your order has made it back from nitride, and is going through final processing. Be on the lookout for the email shipping notification and tracking information. Thank you for your business!"
-      },
-      "running-behind": {
-        "label": "Running behind",
-        "answer": "We are currently processing orders in 3-5 business days, due to all the orders. You will receive an email with your tracking information as soon as your order ships. Thanks for your patience and business!"
       },
     }
   },
