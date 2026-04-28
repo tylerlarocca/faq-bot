@@ -40,17 +40,9 @@
         "label": "UPS shows delivered but no package",
         "answer": "If it's been more than 24 hours since your package was marked delivered and it still hasn't shown up, you can contact the UPS. Customers can send a service request by email to their website for a follow-up on their package. Thanks!"
       },
-      "other-regions-not-listed": {
-        "label": "Other regions not listed",
-        "answer": "We are not permitted to ship outside the US and it's territories. We will warranty the item, but all related shipping costs, both to us and from us, will be the customers responsibility. We are required to ship to a US address only. All export laws such as ITAR and EAR are explicitly the customers responsibility, and their sole responsibility. Thank you."
-      },
       "missing-items-check-packing-list": {
         "label": "Missing items / Check packing list",
         "answer": "The packing slip (which looks like a return shipping label) indicates all the items that were included in that shipment. The remainder of your order (not shown in the items list) will be shipping once we have those items back in stock. Thank you for your business and patience!"
-      },
-      "shipping-charges": {
-        "label": "Shipping charges",
-        "answer": "The system is set up to process the suppressors one at a time. Each suppressor is assigned to an individual suppressor, and they will all require shipping and handling charges. Thanks!"
       },
       "shipping-notifications": {
         "label": "Shipping notifications",
@@ -90,19 +82,11 @@
         "label": "How to apply discount",
         "answer": "Add all the items into your shopping bag that you are wanting. Click on Go To Checkout. Down close to the bottom, right under the order total dollar amount, is the line that says \"Discount or Reward Code? Click HERE to redeem\". Click there, and enter the discount code, and hit apply. You should be good to go. Please keep in mind that you are not allowed to combine rewards and other discount codes together. Thanks!"
       },
-      "sign-on-issues-points-issues": {
-        "label": "Sign on issues / Points issues",
-        "answer": "Yes, we aware that you can't log into the website, we are currently working on the issue. If you place an order as a guest, and use your account email address, you will get your points added to your account correctly. We have verified this ourselves, so you can rest assured your points are in good hands."
-      }
     }
   },
   "barrels": {
     "label": "Barrels",
     "subcategories": {
-      "backdraft": {
-        "label": "Backdraft",
-        "answer": "Rest assured your order is in good standing. We are diligently working toward completing everyone's order as quickly as possible. Thank you for your business and patience!"
-      },
       "breakin-process": {
         "label": "Break-in process",
         "answer": "With our hand lapping process and finishing, you only need to clean it to your liking, and go shoot! Thanks!!"
@@ -127,43 +111,18 @@
         "label": "REMANUFACTURING A BARREL ORDER",
         "answer": "For a new replacement barrel request, we charge a $65 remanufacturing fee, along with a $35 shipping and handling fee. Thank you for chosing Outlier."
       },
-      "barrels": {
-        "label": "Barrels",
-        "answer": "We are currently producing the Remington barrels at this time. We estimate starting on the Savage barrels in approximately 3-4 weeks. Thank you for your business and patience!"
-      },
       "savage-small-or-large": {
         "label": "Savage Small or Large",
         "answer": "Most all Savage rifles use the Savage Small Shank. You can measure the barrel nut you have now to determine which one it is. The Small Shank barrel is 1.055\", and the nut is 7/8\" wide, while the Large Shank barrel is 1.120\", and the nut is 5/8\" wide. Please verify and order accordingly. Your rifle will most likely be the Savage Small Shank. Thanks!"
       },
       "barrel-nut": {
-        "label": "Barrel nut",
+        "label": "Barrel Nut Torque",
         "answer": "With a barrel nut system, typically 40-55 ft/lbs will work for most all receivers. We recommend the torque per the reciever manufacturers recommendations."
       },
       "outlier-barrels-and-chassis-questions": {
         "label": "Outlier barrels and chassis questions...",
         "answer": "Please reach out to our sister company: info@getoutlier.com"
       }
-    }
-  },
-  "suppressors": {
-    "label": "Suppressors",
-    "subcategories": {
-      "suppressor-adapters": {
-        "label": "Suppressor adapters",
-        "answer": "For our backdraft barrels, the mating adapter is proprietary. The HUB adapter has vent ports to allow it to work with our suppressor. We will be introducing a few other adapters in the future. Thanks for the inquiry!"
-      },
-      "tax-exempt-form-and-process": {
-        "label": "Tax Exempt Form and Process",
-        "answer": "We can start the process by providing the following. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Go to our website, and register the email address you wish to use for all purchases. In addition, please fill out the form from the link below, to the fullest extent possible for our records. Once those steps have been accomplished, we will then be able to offer you the MIL/LEO discount, as well as change your tax status to exempt. Thank you for the inquiry!"
-      },
-      "suppressors": {
-        "label": "Suppressors",
-        "answer": "Your rebate code will be lasered onto the barrel itself. Once you receive your barrel, you can then use the code on our website, backdraftsuppressors.com. Thank you for your business and patience!"
-      },
-      "adapter-fitment": {
-        "label": "Adapter fitment",
-        "answer": "All of our HUB's fit our suppressors. It is dependent on the mating part that determines the correct adapter. For standard barrels, you will need either the 1/2-28TPI, or 5/8-24TPI direct thread adapter. For the backdraft system, you will choose either the 1\"OD or 1.2\"OD adapter. 1\"OD adapter is for the AR9 and AR15's. The 1.2\"OD adapters are for the backdraft barrels and the AR10. Thanks!"
-      },
     }
   },
   "chassis": {
@@ -201,10 +160,6 @@
         "label": "Pickup my order",
         "answer": "Unfortunately, our facility is a manufacturing, shipping, and receiving facility only, We do not have a store front in which to do business. Sorry for the inconvenience."
       },
-      "chassis": {
-        "label": "Chassis",
-        "answer": "We are currently running about 7-10 days behind due to the sales and holidays. We will ship your order as soon as possible. Be on the lookout for the shipping notification in your email with tracking. Thanks!"
-      }
     }
   },
   "dealers": {
@@ -230,10 +185,6 @@
       "shootout-guarantee": {
         "label": "Shootout Guarantee",
         "answer": "The Shootout Guarantee, is exactly as it states. If you chose the nitride option, your barrel will be replaced if you ever shoot it out! The shootout part, is based on the barrel not being able to hold to our sub-MOA guarantee. If it won't hold that accuracy, you get a new one for free!"
-      },
-      "warranty-parts-fulfillment": {
-        "label": "Warranty Parts/Fulfillment",
-        "answer": "WARRANTY PARTS"
       }
     }
   },
@@ -241,42 +192,34 @@
     "label": "Technical",
     "subcategories": {
       "screws": {
-        "label": "Screws",
+        "label": "Conical Screws",
         "answer": "Rail to chassis: 3/16\" Allen - 30 in/lbs - Black screws with the conical shape - go into sides of handrail - Qty=2"
       },
       "screws-2": {
-        "label": "Screws",
+        "label": "Round Head Screws",
         "answer": "Rail to chassis: 3/16\" Allen - 30 in/lbs - Black screws with the round head - go into bottom of handrail - Qty=2"
       },
       "screws-3": {
-        "label": "Screws",
+        "label": "Cheek Riser Screws",
         "answer": "Cheek Riser: Black Thumb screws - Finger tighten only - Qty=3"
       },
       "screws-4": {
-        "label": "Screws",
+        "label": "Grip Screws",
         "answer": "Grip screw: 5/32\" Allen - 20 in/lbs - Silver 3/4\" long - Qty=1"
       },
       "screws-5": {
-        "label": "Screws",
+        "label": "Buttstock Screws",
         "answer": "Buttstock screws: 1/8\" Allen -10 in/lbs - 1/4\" long - Qty=9 (One used for the stock tube to chassis mating point)"
       },
       "screws-6": {
-        "label": "Screws",
+        "label": "Action Screws",
         "answer": "Action screws: Black 1/4-28 x 1/2\" & 1/4-28 x 2\" - Per manufacturers recommendations (typically 40-75 in/lbs) - Qty=1 & 1"
-      },
-      "water-proofing-building-standard": {
-        "label": "Water proofing building standard",
-        "answer": "We utilize the IPX7 Standard for water proofing."
       }
     }
   },
   "general": {
     "label": "General",
     "subcategories": {
-      "abandoned-cart-back-in-stock-email": {
-        "label": "Abandoned Cart/Back In Stock Email",
-        "answer": "We apologize for the error in the email. We are aware that the email is being sent out by mistake, and are working to correct the issue. Sorry for any inconvenience this may have caused. Thank you for your business and support."
-      },
       "mil-leo-short-answer": {
         "label": "MIL/LEO short answer",
         "answer": "We offer an \"Official Use Only\" discount for Mil/LEO. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Thanks!"
@@ -292,10 +235,6 @@
       "upgrade-after-30-days": {
         "label": "Upgrade after 30 days",
         "answer": "Unfortunately we can not do that. Returns for upgrades are strictly limited to within 30 days of the customer receiving the original order. We do not take trade ins, as we don't sell used products. We hope you understand. Sorry for the inconvenience."
-      },
-      "how-does-the-site-work-and-what-do-i-order": {
-        "label": "How does the site work and what do I order?",
-        "answer": "There is a process on our website (Backdraft Suppressors) that will have you fill out what SOT you would like the suppressor sent to. The $200 tax stamp will still be in effect until January 1st, 2026 to our knowledge, however, we are talking about the Government which is shut down. Right now they aren't processing any suppressor paperwork to my knowledge. So our hub mount you can get in either 5/8x24 or 1/2x28. Or you can get a direct thread in either of those thread pitches. So all in all customers will have 4 options for their mounting choice, which is an option under adapters on the website to choose. The suppressor doesn't come with the mount. If you have a back draft barrel then you would choose 1 of 2 options for the hub adaptor proprietary to work with our back draft barrels. Hope this all makes sense to you. Thank you for your support."
       }
     }
   },
@@ -310,10 +249,6 @@
         "label": "Magazine Catch Installation",
         "answer": "https://www.dropbox.com/scl/fi/t5qqkwgdnal8x9bf8s6u8/MagCatchInstall.mov?rlkey=waypizmev51p4txrm1j8dg6wd&st=0of7ntw6&dl=0"
       },
-      "mil-leo30": {
-        "label": "MIL/LEO30",
-        "answer": "We offer an \"Official Use Only\" discount for Mil/LEO. We will need a signed document, on department letterhead, that states it's purpose is for duty, not personal use. Thanks!"
-      },
       "order-didn-t-go-through": {
         "label": "Order didn't go through",
         "answer": "Our payment processor may have denied the transaction. The funds were returned immediately. Your financial institution will typically hold the funds for 3-5 business days to process back to your account. Sorry for the inconvenience."
@@ -325,35 +260,19 @@
       "tax-on-orders": {
         "label": "Tax on orders",
         "answer": "https://www.taxjar.com/sales-tax-calculator"
-      },
-      "twist-rate-info": {
-        "label": "Twist rate info",
-        "answer": "Overstabilization is not truly an issue with modern projectiles. While some lighter projectiles may need less twist, the higher twist won't hurt anything. If you get the barrel, and you don't like the performance, you can return it within 30 days for a refund. We are currently only set up to offer the twist rates as shown on the website. Thanks for the inquiry!"
       }
     }
   },
   "magazine": {
     "label": "magazine",
     "subcategories": {
-      "3-0-223-ai-mdt-metal-and-poly": {
-        "label": "3.0\" .223(AI) MDT Metal & Poly",
-        "answer": "https://mdttac.com/us/223"
-      },
       "3-0-6mm-arc-mdt-metal": {
         "label": "3.0\" 6mm ARC MDT Metal",
         "answer": "https://mdttac.com/6mm-arc-mdt-metal-magazine-10-rnd/"
-      },
+      }, 
       "3-0-308w-accurate-metal": {
         "label": "3.0\" 308W Accurate Metal",
         "answer": "https://accurate-mag.com/shop/magazines/shortactionaics/308-winchester-7-62x51mm-dssf-magazine/"
-      },
-      "3-0-308w-mdt-metal": {
-        "label": "3.0\" 308W MDT Metal",
-        "answer": "https://mdttac.com/us/308-6-5-creedmoor"
-      },
-      "3-56-30-06-mdt-metal": {
-        "label": "3.56\" .30-06 MDT Metal",
-        "answer": "https://mdttac.com/30-06-mdt-metal-magazine/"
       },
       "3-56-300wsm-6-5prc-mdt": {
         "label": "3.56\" 300WSM / 6.5PRC MDT",
@@ -371,21 +290,9 @@
         "label": "3.715\" 300WSM / 6.5PRC Accurate",
         "answer": "https://accurate-mag.com/shop/magazines/shortactionaics/300-winchester-short-magnum-dssf-magazine/"
       },
-      "3-715-300wsm-6-5prc-mdt": {
-        "label": "3.715\" 300WSM / 6.5PRC MDT",
-        "answer": "https://mdttac.com/300-wsm-6-5-prc-mdt-metal-magazine-med-5-rnd/"
-      },
       "3-715-30-06-accurate-metal": {
         "label": "3.715\" .30-06 Accurate Metal",
         "answer": "https://accurate-mag.com/shop/magazines/longactionaics/30-06-springfield-sssf-magazine/"
-      },
-      "3-715-30-06-mdt-metal": {
-        "label": "3.715\" .30-06 MDT Metal",
-        "answer": "https://mdttac.com/30-06-mdt-metal-magazine/"
-      },
-      "3-85-300prc-7prc-mdt-metal": {
-        "label": "3.85\" 300PRC / 7PRC MDT Metal",
-        "answer": "https://mdttac.com/300prc-mdt-metal-cip-magazine/"
       },
       "3-85-300-ultramag-accurate-cip": {
         "label": "3.85\" 300 UltraMag Accurate (CIP)",
@@ -412,10 +319,6 @@
         "label": "Site doesn't work",
         "answer": "We are currently working on the data link that will allow you to input the rebate codes to process your suppressor request. Thank you for your business and patience!"
       },
-      "orders-over-500": {
-        "label": "Orders over $500",
-        "answer": "Your order qualified you for our suppressor rebate. You will receive an email shortly, with the rebate information, and instructions on how to proceed. Thank you for your business and support!"
-      },
        "rebate-process": {
         "label": "Rebate process",
         "answer": "You will need to find the \"R\" number on your barrel. It will begin with RB-####. You will need to enter the information exactly as it shows on the barrel, into the system on the backdraftsuppressors.com website. Let us know if need any further assistance. Thank you for your business and support!"
@@ -423,10 +326,7 @@
     }
   },
   "paypal": {
-    "label": "paypal",
-    "subcategories": {
-      "no-longer-allowed": {
-        "label": "PayPal",
+    "label": "PayPal",
         "answer": "We are no longer associated with PayPal due to their stance on the 2nd Amendment, and the mishandling of our payments. We do take all major credit and debit cards. Thanks for your business!"
       }
     }
