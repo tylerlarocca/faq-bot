@@ -327,6 +327,9 @@
   },
   "paypal": {
     "label": "PayPal",
+   "subcategories": {
+     "paypal": {
+      "label": "PayPal",
         "answer": "We are no longer associated with PayPal due to their stance on the 2nd Amendment, and the mishandling of our payments. We do take all major credit and debit cards. Thanks for your business!"
       }
     }
