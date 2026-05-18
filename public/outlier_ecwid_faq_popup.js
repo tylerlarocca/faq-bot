@@ -321,7 +321,7 @@
       },
        "rebate-process": {
         "label": "Rebate process",
-        "answer": "You will need to find the \"R\" number on your barrel. It will begin with RB-####. You will need to enter the information exactly as it shows on the barrel, into the system on the backdraftsuppressors.com website. Let us know if need any further assistance. Thank you for your business and support!"
+        "answer": "You will receive a rebate code on a card with your order. Using this code you will go to our website at backdraftsuppressors.com and select your 4" aluminum BackDraft Hunter. If you would like to upgrade your suppressor you will still get the same discount applied towards whatever upgraded suppressor you choose. You will need to enter the information exactly as it shows on the rebate card, into the system on the backdraftsuppressors.com website. Let us know if need any further assistance. Thank you for your business and support!"
        }
     }
   },
